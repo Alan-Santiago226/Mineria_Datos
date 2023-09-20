@@ -67,6 +67,6 @@ def Tendencia(): #Mejores videojuegos historicamente
 
 
 
-Maximos(2) # Tiene hasta 3 opciones de ordenamiento
-Generos(1) # Tiene 2 opciones de ordenamiento
-Tendencia()
+Maximos(2) # Tiene hasta 3 opciones de ordenamiento    1 - Ventas máximas por desarrolladora  ;  2 - Top ventas por año descendente  ;  3 - Top ventas por año ascendente
+Generos(1) # Tiene 2 opciones de ordenamiento      1 - Generos a traves de los años  ;  2 - Generos en plataformas
+Tendencia() # Por defecto, mejores videojuegos historicamente
